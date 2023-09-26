@@ -1,6 +1,6 @@
   Hi, I’m @Oni5731, French cybersecurity student.
   I’m currently studying pentestenting and cybersecurity engineering as an autodidact before launching my professional reconversion.
-  If you want to help (tips, tools, how to, professional certificate, job, knowledge test, diploma) you can contact me.
+  If you want to help (tips, tools, how to, professional certificate, job, knowledge test, diploma) you can contact me : 
   ZoriaSec@gmail.com
   
 <!---
